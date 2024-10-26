@@ -1,0 +1,10 @@
+﻿  BTTL6.cpp
+  TamGiac.cpp
+D:\Nam_2\Lap_trinh_huong_doi_tuong_IT002.P11.CTTN\TH\Lab2\BTTL6\BTTL6\TamGiac.h(8,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'BTTL6.cpp')
+  
+D:\Nam_2\Lap_trinh_huong_doi_tuong_IT002.P11.CTTN\TH\Lab2\BTTL6\BTTL6\TamGiac.h(8,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'TamGiac.cpp')
+  
+  Generating Code...
+  BTTL6.vcxproj -> D:\Nam_2\Lap_trinh_huong_doi_tuong_IT002.P11.CTTN\TH\Lab2\BTTL6\x64\Debug\BTTL6.exe
